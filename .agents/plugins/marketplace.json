@@ -1,0 +1,32 @@
+{
+  "name": "sportsdatahq-fantasy",
+  "interface": {
+    "displayName": "SportsDataHQ fantasy and DFS"
+  },
+  "plugins": [
+    {
+      "name": "fantasy-sports",
+      "source": {
+        "source": "local",
+        "path": "./plugins/fantasy-sports"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "sports-analytics-core",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sports-analytics-core"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
