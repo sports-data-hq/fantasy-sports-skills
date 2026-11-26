@@ -39,6 +39,10 @@ The first tool call asks you to sign in to SportsDataHQ: one free account covers
 
 DFS skills build lineups under the cap from your salary file. They never advise on entries, contests or bankroll. Odds are used only as information.
 
+## Example answers
+
+Real runs on live data: [start/sit](https://github.com/sports-data-hq/sportsdatahq-skills/blob/main/docs/examples/nfl/04-fantasy-should-i-start-bijan-robinson-or-jahmyr-gibbs-this-w.md), [NFL waivers](https://github.com/sports-data-hq/sportsdatahq-skills/blob/main/docs/examples/nfl/05-best-waiver-wire-pickups-this-week-for-fantasy-football.md), [NBA streaming](https://github.com/sports-data-hq/sportsdatahq-skills/blob/main/docs/examples/nba/04-which-players-should-i-stream-this-week-in-fantasy-basketbal.md), [FPL captain](https://github.com/sports-data-hq/sportsdatahq-skills/blob/main/docs/examples/soccer/04-fpl-captain-this-gameweek-haaland-salah-palmer-or-saka-defau.md).
+
 ## More
 
 - Every sport's full analysis skills (previews, props research, ratings, models): [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills).
