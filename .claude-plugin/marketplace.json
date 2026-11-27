@@ -6,19 +6,19 @@
   },
   "metadata": {
     "description": "Fantasy and DFS skills for Claude, on live sports data.",
-    "version": "2.2.2"
+    "version": "2.2.3"
   },
   "plugins": [
     {
       "name": "fantasy-sports",
       "source": "./plugins/fantasy-sports",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "description": "Fantasy and DFS skills for the NFL, NBA, MLB, NHL and FPL."
     },
     {
       "name": "sports-analytics-core",
       "source": "./plugins/sports-analytics-core",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "description": "Models, backtests, calibration and charts for any sport."
     }
   ]
